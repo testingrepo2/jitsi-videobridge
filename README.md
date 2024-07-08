@@ -4,7 +4,7 @@ Jitsi Videobridge is a WebRTC-compatible Selective Forwarding Unit (SFU), i.e. a
 multimedia router. It is one of the backend components in the [Jitsi Meet](https://github.com/jitsi/jitsi-meet) stack.
 
 You can find more documentation in the
-[doc/ directory in the source tree](https://github.com/jitsi/jitsi-videobridge/tree/master/doc) and in the
+[doc/ directory in the source tree](https://github.com/jitsi/jitsi-videobridge/tree/master/doc) and in the 
 [Jitsi Meet Handbook](https://jitsi.github.io/handbook/).
 
 If you have questions about the project, please post on the [Jitsi Community Forum](https://community.jitsi.org/).
